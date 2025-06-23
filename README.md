@@ -1,6 +1,6 @@
 # StableHair v2
 **Stable-Hair v2: Real-World Hair Transfer via Multiple-View Diffusion Model**  
-Kuiyuan Sun*, [Yuxuan Zhang](https://xiaojiu-z.github.io/YuxuanZhang.github.io/)*, [Jichao Zhang](https://zhangqianhui.github.io/)*, [Jiaming Liu](https://scholar.google.com/citations?user=SmL7oMQAAAAJ&hl=en), 
+Kuiyuan Sun*, [Yuxuan Zhang*](https://xiaojiu-z.github.io/YuxuanZhang.github.io/), [Jichao Zhang*](https://zhangqianhui.github.io/), [Jiaming Liu](https://scholar.google.com/citations?user=SmL7oMQAAAAJ&hl=en), 
  [Wei Wang](https://weiwangtrento.github.io/), [Nicu Sebe](http://disi.unitn.it/~sebe/), Yao Zhao<br>
 *Equal Contribution <br>
 Beijing Jiaotong University, Shanghai Jiaotong University, Ocean University of China, Tiamat AI, University of Trento <br>
