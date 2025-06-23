@@ -6,6 +6,12 @@ Kuiyuan Sun*, [Yuxuan Zhang](https://xiaojiu-z.github.io/YuxuanZhang.github.io/)
 Beijing Jiaotong University, Shanghai Jiaotong University, Ocean University of China, Tiamat AI, University of Trento
 [Arxiv](https://ttgnerf.github.io/TT-GNeRF/), [Project](https://ttgnerf.github.io/TT-GNeRF/)<br>
 
+
+Bald     |  Reference | Multiple View | Original Video
+![](./imgs/multiview1.gif)  
+Bald     |  Reference | Multiple View | Original Video
+![](./imgs/multiview2.gif)
+
 ## Environments
 
 ```
@@ -53,4 +59,4 @@ python test_reference_geometry_editing.py --outdir=[output_path] --batch=1 \
 
 # Our V1 version
 
-StableHair v2 is an improved version of [StableHair](https://github.com/Xiaojiu-z/Stable-Hair)(AAAI 2025)
+StableHair v2 is an improved version of [StableHair](https://github.com/Xiaojiu-z/Stable-Hair) (AAAI 2025)
