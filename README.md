@@ -1,9 +1,10 @@
 # StableHair v2
 **Stable-Hair v2: Real-World Hair Transfer via Multiple-View Diffusion Model**  
-Kuiyuan Sun, [Yuxuan Zhang](https://xiaojiu-z.github.io/YuxuanZhang.github.io/), [Jichao Zhang](https://zhangqianhui.github.io/), [Jiaming Liu](https://scholar.google.com/citations?user=SmL7oMQAAAAJ&hl=en), 
+Kuiyuan Sun*, [Yuxuan Zhang](https://xiaojiu-z.github.io/YuxuanZhang.github.io/)*, [Jichao Zhang](https://zhangqianhui.github.io/)*, [Jiaming Liu](https://scholar.google.com/citations?user=SmL7oMQAAAAJ&hl=en), 
  [Wei Wang](https://weiwangtrento.github.io/), [Nicu Sebe](http://disi.unitn.it/~sebe/), Yao Zhao<br>
-[Arxiv](https://ttgnerf.github.io/TT-GNeRF/), [Project](https://ttgnerf.github.io/TT-GNeRF/)<br>
+*Equal Contribution <br>
 Beijing Jiaotong University, Shanghai Jiaotong University, Ocean University of China, Tiamat AI, University of Trento
+[Arxiv](https://ttgnerf.github.io/TT-GNeRF/), [Project](https://ttgnerf.github.io/TT-GNeRF/)<br>
 
 ## Environments
 
@@ -52,4 +53,4 @@ python test_reference_geometry_editing.py --outdir=[output_path] --batch=1 \
 
 # Our V1 version
 
-StableHair v2 is a improved version of [StableHair](https://github.com/Xiaojiu-z/Stable-Hair)(AAAI 2025)
+StableHair v2 is an improved version of [StableHair](https://github.com/Xiaojiu-z/Stable-Hair)(AAAI 2025)
