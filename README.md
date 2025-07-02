@@ -26,13 +26,13 @@ pip install -r requirements.txt
 <img src="./imgs/teaser.jpg" width="800"> 
 
 ## Pretrained Model
-| Name                      |   Model   | 
-|---------------------------|:---------:|
-| motion_module-4145000.pth | [:link:](https://drive.google.com/file/d/1AZMhui9jNRF3Z0N72VDPOwDd0JafLQ3B/view?usp=drive_link) | 
-| pytorch_model_1.bin       |  [:link:](https://drive.google.com/file/d/1FwKPZI8lvdlZqu8R1aJ-QbE55kxHPHjU/view?usp=drive_link) | 
-| pytorch_model_2.bin       |  [:link:](https://drive.google.com/file/d/1h3dXlo8lhZN3ee5aN0shZmpLfn5itVou/view?usp=drive_link) | 
-| pytorch_model_3.bin       |  [:link:](https://drive.google.com/file/d/1jARfXaU6wiur85Vm1JxZ_xye0FfrUiqb/view?usp=drive_link) | 
-| pytorch_model.bin         |  [:link:](https://drive.google.com/file/d/1zXXf13pV5IOn2vrV6DGI9hliEFvuPrYf/view?usp=drive_link) |
+| Name                       |   Model   | 
+|----------------------------|:---------:|
+| motion_module-41400000.pth | [:link:](https://drive.google.com/file/d/1AZMhui9jNRF3Z0N72VDPOwDd0JafLQ3B/view?usp=drive_link) | 
+| pytorch_model_1.bin        |  [:link:](https://drive.google.com/file/d/1FwKPZI8lvdlZqu8R1aJ-QbE55kxHPHjU/view?usp=drive_link) | 
+| pytorch_model_2.bin        |  [:link:](https://drive.google.com/file/d/1h3dXlo8lhZN3ee5aN0shZmpLfn5itVou/view?usp=drive_link) | 
+| pytorch_model_3.bin        |  [:link:](https://drive.google.com/file/d/1jARfXaU6wiur85Vm1JxZ_xye0FfrUiqb/view?usp=drive_link) | 
+| pytorch_model.bin          |  [:link:](https://drive.google.com/file/d/1zXXf13pV5IOn2vrV6DGI9hliEFvuPrYf/view?usp=drive_link) |
 
 ### Multiple View Hair Transfer
 
