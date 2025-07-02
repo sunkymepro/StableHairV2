@@ -42,7 +42,7 @@ Please use ``gdown''' to download the pretrained model and save it in your model
 python test_stablehairv2.py --pretrained_model_name_or_path "stable-diffusion-v1-5/stable-diffusion-v1-5" \
        --image_encoder "openai/clip-vit-large-patch14" --output_dir [Your_output_dir]  \
        --num_validation_images 1 --validation_ids ./test_imgs/bald.jpg \
-       --validation_hairs ./test_imgs/ref.jpg --model_path [Your_model_path]
+       --validation_hairs ./test_imgs/ref1.jpg --model_path [Your_model_path]
 ```
 
 
