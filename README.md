@@ -4,7 +4,7 @@ Kuiyuan Sun*, [Yuxuan Zhang*](https://xiaojiu-z.github.io/YuxuanZhang.github.io/
  [Wei Wang](https://weiwangtrento.github.io/), [Nicu Sebe](http://disi.unitn.it/~sebe/), [Yao Zhao](https://scholar.google.com/citations?user=474TbQYAAAAJ&hl=en&oi=ao)<br>
 *Equal Contribution <br>
 Beijing Jiaotong University, Shanghai Jiaotong University, Ocean University of China, Tiamat AI, University of Trento <br>
-[Arxiv](https://arxiv.org/abs/2507.07591), [Demo (Chinese) by @ouclxy](https://huggingface.co/spaces/ouclxy/stablehairv2_demo)<br>
+[Arxiv](https://arxiv.org/abs/2507.07591), [Demo (Chinese) by @ouclxy (still under development) ](https://huggingface.co/spaces/ouclxy/stablehairv2_demo)<br>
 
 Bald     |  Reference | Multiple View | Original Video
 ![](./imgs/multiview1.gif)  
