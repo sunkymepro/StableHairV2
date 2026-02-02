@@ -48,3 +48,15 @@ python test_stablehairv2.py --pretrained_model_name_or_path "stable-diffusion-v1
 # Our V1 version
 
 StableHair v2 is an improved version of [StableHair](https://github.com/Xiaojiu-z/Stable-Hair) (AAAI 2025)
+
+
+# Reference
+
+```
+@article{sun2025stable,
+  title={Stable-Hair v2: Real-World Hair Transfer via Multiple-View Diffusion Model},
+  author={Sun, Kuiyuan and Zhang, Yuxuan and Zhang, Jichao and Liu, Jiaming and Wang, Wei and Sebe, Niculae and Zhao, Yao},
+  journal={TVCG},
+  year={2026}
+}
+```
